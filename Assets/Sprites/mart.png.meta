@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 11c0fe1872906e04db20c64ccc1e2483
+timeCreated: 1479674866
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mart_0
+    21300002: mart_1
+    21300004: mart_2
+    21300006: mart_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mart_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 4}
+        - {x: -32.5, y: 1}
+        - {x: -32.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 20.5, y: -20}
+        - {x: 17.5, y: -15}
+        - {x: 7.5, y: 4}
+    - name: mart_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -1}
+        - {x: 21.5, y: 7}
+        - {x: -19.5, y: 7}
+        - {x: -27.5, y: -9}
+        - {x: -27.5, y: -46}
+        - {x: -14.5, y: -46}
+        - {x: -10.5, y: -42}
+        - {x: 14.5, y: -34}
+        - {x: 22.5, y: -29}
+    - name: mart_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 4}
+        - {x: -21.5, y: 4}
+        - {x: -22.5, y: 2}
+        - {x: -22.5, y: -16}
+        - {x: -10.5, y: -39}
+        - {x: -5.5, y: -46}
+        - {x: 24.5, y: -46}
+        - {x: 30.5, y: -37}
+        - {x: 30.5, y: -12}
+        - {x: 27.5, y: -2}
+    - name: mart_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 7}
+        - {x: 13.5, y: 7}
+        - {x: -12.5, y: 2}
+        - {x: -15.5, y: -7}
+        - {x: -15.5, y: -45}
+        - {x: -11.5, y: -46}
+        - {x: 23.5, y: -46}
+        - {x: 26.5, y: -41}
+        - {x: 34.5, y: -17}
+        - {x: 34.5, y: 3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: ec2393b4272537f4e8a8efc6bdcfad31
+timeCreated: 1480266982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: placas_0
+    21300002: placas_1
+    21300004: placas_2
+    21300006: placas_3
+    21300008: placas_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: placas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 33.5}
+        - {x: -39.5, y: 16.5}
+        - {x: -39.5, y: -16.5}
+        - {x: -27.5, y: -28.5}
+        - {x: -7.5, y: -33.5}
+        - {x: 15.5, y: -33.5}
+        - {x: 39.5, y: -7.5}
+        - {x: 39.5, y: 31.5}
+        - {x: 33.5, y: 33.5}
+    - name: placas_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 33.5}
+        - {x: -39.5, y: 25.5}
+        - {x: -39.5, y: -12.5}
+        - {x: -28.5, y: -30.5}
+        - {x: -10.5, y: -33.5}
+        - {x: 14.5, y: -33.5}
+        - {x: 39.5, y: -8.5}
+        - {x: 39.5, y: 32.5}
+        - {x: 38.5, y: 33.5}
+    - name: placas_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 33.5}
+        - {x: -39.5, y: 21.5}
+        - {x: -39.5, y: -17.5}
+        - {x: -32.5, y: -33.5}
+        - {x: 17.5, y: -33.5}
+        - {x: 39.5, y: -18.5}
+        - {x: 39.5, y: 32.5}
+        - {x: 35.5, y: 33.5}
+    - name: placas_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 33.5}
+        - {x: -39.5, y: 25.5}
+        - {x: -39.5, y: -12.5}
+        - {x: -28.5, y: -30.5}
+        - {x: -10.5, y: -33.5}
+        - {x: 14.5, y: -33.5}
+        - {x: 39.5, y: -8.5}
+        - {x: 39.5, y: 32.5}
+        - {x: 38.5, y: 33.5}
+    - name: placas_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 33.5}
+        - {x: -42.5, y: 31.5}
+        - {x: -42.5, y: -33.5}
+        - {x: 23.5, y: -33.5}
+        - {x: 42.5, y: -15.5}
+        - {x: 42.5, y: 33.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
