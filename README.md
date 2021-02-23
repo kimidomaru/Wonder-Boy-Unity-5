@@ -25,7 +25,7 @@ or
 ## Download
 
 You can download the Wonder Boy Game and Source code using the following ways: 
-- [:sparkles: Source Code](https://github.com/BayatGames/RedRunner/archive/master.zip)
+- [:sparkles: Source Code](https://https://github.com/kimidomaru/Wonder-Boy-Unity-5/archive/master.zip)
 - [:heart: Game](https://drive.google.com/open?id=0B_5AiKLhf_YUSkhrUlkwY3dNLTg)
 
 - Clone the repository locally:
