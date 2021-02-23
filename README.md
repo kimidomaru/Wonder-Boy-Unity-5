@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/r9YmA58.gif" alt="Rocketseat and Gatsby" width="800">
 </h1> 
 
-#Wonder Boy
+# Wonder Boy
 
 A nostalgic remake of the game Wonder Boy, from Master System developed in Unity 5, using the original game sprites.
 
