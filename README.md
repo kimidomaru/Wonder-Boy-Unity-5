@@ -12,7 +12,7 @@ A nostalgic remake of the game Wonder Boy, from Master System developed in Unity
 
 ## Getting Started
 
-Follow the below instructions to get started with Red Runner source code:
+Follow the below instructions to get started with Wonder Boy source code:
 
 1. [Download Source Code](#download)
 2. Open Project in Unity and Enjoy!
